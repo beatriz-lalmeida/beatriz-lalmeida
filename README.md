@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:020617&text=SYSTEM%20ONLINE&fontColor=00e5ff&fontSize=45&fontAlignY=40&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descAlignY=62&descSize=16&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:020617&text=BEATRIZ%20LOPES&fontColor=00e5ff&fontSize=45&fontAlignY=40&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descAlignY=62&descSize=16&animation=twinkling" width="100%"/>
 
 <br>
 
@@ -14,7 +14,6 @@
 
 </div>
 
----
 
 # `> whoami`
 
