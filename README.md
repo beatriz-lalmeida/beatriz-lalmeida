@@ -90,8 +90,6 @@ Ainda estou construindo minha base em **programação, algoritmos e desenvolvime
 | --------------- | --------------------------------- |
 | 💻 VS Code      | Ambiente de desenvolvimento       |
 | 🐙 Git & GitHub | Versionamento e projetos          |
-| 🎨 Figma        | Exploração de interfaces e design |
-| 📝 Notion       | Organização de estudos            |
 | 🧩 GitHub       | Portfólio e documentação          |
 
 ---
@@ -230,16 +228,6 @@ STATUS: LEARNING_MODE_ACTIVE
 # `> contribution_protocol`
 
 <div align="center">
-
-### 🐍 Contribution Matrix
-
-<br>
-
-<img src="https://raw.githubusercontent.com/beatriz-lalmeida/beatriz-lalmeida/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 # `> social_network`
 
