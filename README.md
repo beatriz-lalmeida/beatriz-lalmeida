@@ -197,42 +197,6 @@ STATUS: LEARNING_MODE_ACTIVE
 
 ---
 
-# `> activity`
-
-<div align="center">
-
-### ⚡ Activity Graph
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=beatriz-lameida&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-# `> achievements`
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=beatriz-lalmeida&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" />
-
-</div>
-
----
-
-# `> contribution_protocol`
-
-<div align="center">
-
-# `> social_network`
-
-<div align="center">
-
 ### 🌐 Conecte-se Comigo
 
 <br>
