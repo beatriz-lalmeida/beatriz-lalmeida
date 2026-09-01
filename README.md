@@ -28,11 +28,11 @@
 │                    DEVELOPER PROFILE                         │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  Nome       : Beatriz                                       │
-│  Curso      : Análise e Desenvolvimento de Sistemas         │
-│  Status     : Estudante                                     │
-│  Experiência: Iniciante                                     │
-│  Missão     : Aprender e descobrir meu caminho na tecnologia│
+│  Nome       : Beatriz                                        │
+│  Curso      : Análise e Desenvolvimento de Sistemas          │
+│  Status     : Estudante                                      │
+│  Experiência: Iniciante                                      │
+│  Missão     : Aprender e descobrir meu caminho na tecnologia │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
